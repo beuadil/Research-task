@@ -1,54 +1,29 @@
-# AI Development Environment Setup (Cursor IDE)
+# 100Hires Portfolio Project — Step 1
 
-## 📌 Overview
-This project documents the setup of an AI-assisted development environment using Cursor IDE and AI extensions. The goal was to install required tools, configure them, and document the process, including any challenges encountered.
+## Tools Installed
 
----
+- **Cursor IDE** — [cursor.com](https://cursor.com/)
+- **Codex** (Cursor Extension) — used as the AI coding assistant after encountering a Claude Code login issue (see below)
+- **GitHub** — public repository created and connected to Cursor
 
-## 🛠 Tools Installed
-- Cursor IDE – AI-powered code editor
-- Codex extension – AI tool for code generation and assistance
-- Claude Code extension – AI assistant (limited due to access restrictions)
-- Git – version control system
-- GitHub – repository hosting platform
+## Steps Completed
 
----
+1. Downloaded and installed Cursor IDE
+2. Searched for and installed the Codex extension via Cursor's Extensions panel
+3. Created a public GitHub repository
+4. Opened the repository locally in Cursor
+5. Created this README.md file and pushed it to GitHub
+6. Updated the README.md further using terminal commands (git add, commit, push) — without touching the GitHub website
+7. Applied the same terminal workflow for all subsequent edits
 
-## ⚙️ Steps Completed
-1. Installed Cursor IDE from the official website
-2. Opened Extensions panel and searched for required tools
-3. Installed Codex extension and logged in successfully
-4. Installed Claude Code extension
-5. Attempted authentication for Claude Code
-6. Created a local project folder and initialized Git repository
-7. Created a README.md file manually
-8. Connected local repository to GitHub
-9. Committed and pushed files to remote repository
+## Issues & How I Solved Them
 
----
+**Issue 1: Claude Code required Claude Pro**
+The Claude Code extension requires an active Claude Pro subscription to log in. Since I didn't have one, I pivoted to the **Codex** extension as an alternative AI coding assistant, which covers the same core functionality for this task.
 
-## ⚠️ Challenges & Solutions
+**Issue 2: Editing README via GitHub's website**
+My first instinct was to edit the README directly on GitHub's site. Instead, I learned how to edit the file locally in Cursor, then stage, commit, and push the updates via the terminal — which is the proper developer workflow. Applied this approach for all subsequent edits.
 
-### 1. Claude Code Authentication Issue
-- Problem: Claude Code required a paid (Pro) subscription or API access
-- Attempted Solution: Tried logging in with a free account
-- Outcome: Could not fully activate the extension
-- Decision: Continued using Codex as the primary AI tool
+## Reflections
 
-### 2. GitHub Push Authentication
-- Problem: GitHub did not accept account password during push
-- Solution: Generated a Personal Access Token (PAT) and used it instead
-- Result: Successfully authenticated and pushed repository
-
----
-
-## 📊 Key Learnings
-- Learned how to set up an AI-assisted development environment
-- Improved understanding of Git workflow (init, commit, push)
-- Gained experience handling real-world issues like authentication errors
-- Understood differences between AI tools and access limitations
-
----
-
-## 🚀 Conclusion
-Despite some limitations with certain tools, the environment was successfully set up using available resources. The process highlighted the importance of problem-solving, adaptability, and proper documentation in technical workflows.
+This first step was straightforward but genuinely useful. It forced me to set up a real developer environment, work through small blockers independently, and use the terminal rather than relying on GUI shortcuts. Ready for the next step.
