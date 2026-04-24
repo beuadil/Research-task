@@ -1,9 +1,8 @@
-# Transcript: i-let-ai-run-my-seo-campaign
+# Transcript: I let AI run my SEO
 
 Expert: matt-diggity
 Video ID: xG9Vu9yrQzw
-URL: https://www.youtube.com/watch?v=xG9Vu9yrQzw
-Collected: 2026-04-24
+URL: [https://www.youtube.com/watch?v=xG9Vu9yrQzw](https://www.youtube.com/watch?v=xG9Vu9yrQzw)
 
 ---
 

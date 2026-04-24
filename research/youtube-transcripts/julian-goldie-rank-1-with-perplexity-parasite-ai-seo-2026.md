@@ -1,9 +1,6 @@
-# Transcript: rank-1-with-perplexity-parasite-ai-seo-2026
-
-Expert: julian-goldie
-Video ID: WhLyFjzbzvQ
-URL: https://www.youtube.com/watch?v=WhLyFjzbzvQ
-Collected: 2026-04-24
+#   
+**How to Rank #1 with Perplexity Parasite AI SEO in 2026!**  
+URL: [https://www.youtube.com/watch?v=WhLyFjzbzvQ](https://www.youtube.com/watch?v=WhLyFjzbzvQ)
 
 ---
 

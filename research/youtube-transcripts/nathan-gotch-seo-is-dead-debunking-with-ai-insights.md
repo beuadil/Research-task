@@ -1,9 +1,10 @@
-# Transcript: seo-is-dead-debunking-with-ai-insights
+
+SEO is Dead? Debunking the Myth with AI Insights
 
 Expert: nathan-gotch
 Video ID: QLpSxF4armY
 URL: https://www.youtube.com/watch?v=QLpSxF4armY
-Collected: 2026-04-24
+
 
 ---
 

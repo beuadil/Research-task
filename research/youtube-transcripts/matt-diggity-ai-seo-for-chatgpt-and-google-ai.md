@@ -1,9 +1,10 @@
-# Transcript: ai-seo-for-chatgpt-and-google-ai
+
+I did AI-SEO for ChatGPT and Google AI. Here’s what happened…
 
 Expert: matt-diggity
 Video ID: 4GBlHObjOrY
 URL: https://www.youtube.com/watch?v=4GBlHObjOrY
-Collected: 2026-04-24
+
 
 ---
 
