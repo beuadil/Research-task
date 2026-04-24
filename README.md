@@ -45,7 +45,7 @@ I chose this topic because it sits at the intersection of two areas that are cha
 |--------|---------|------------|
 | **Matt Diggity** | [@MattDiggity](https://www.youtube.com/@MattDiggity) | Runs real-world AI SEO experiments on affiliate sites with published ranking results. Data-first approach, not theory. |
 | **Julian Goldie** | [@JulianGoldieSEO](https://www.youtube.com/@JulianGoldieSEO) | Publishes step-by-step AI SEO workflows. Covers emerging tactics like Perplexity parasite SEO before they go mainstream. High output, fast-moving. |
-| **Nathan Gotch** | [@GotchSEO](https://www.youtube.com/@GotchSEO) | Systematic thinker who turns complex AI SEO shifts into actionable skill frameworks. Covers both strategic and execution-level changes. |
+| **Nathan Gotch** | [@GotchSEO]((https://www.youtube.com/@nathangotch)) | Systematic thinker who turns complex AI SEO shifts into actionable skill frameworks. Covers both strategic and execution-level changes. |
 
 ---
 
