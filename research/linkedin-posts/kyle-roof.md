@@ -1,8 +1,8 @@
 # LinkedIn Posts — Kyle Roof (Founder, PageOptimizer Pro)
 
 Source: Google search fallback
-Profile: https://www.linkedin.com/in/kyleroof/
-Collected: 2026-04-24
+Profile: https://www.linkedin.com/in/kyle-roof-seo/
+
 
 ---
 

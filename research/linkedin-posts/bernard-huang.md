@@ -1,15 +1,16 @@
 # LinkedIn Posts — Bernard Huang (Co-founder, Clearscope)
 
 Source: Google search fallback
-Profile: https://www.linkedin.com/in/bernardjhuang/
+Profile: [https://www.linkedin.com/in/bernardjhuang/](https://www.linkedin.com/in/bernardjhuang/)
 Collected: 2026-04-24
 
 ---
 
 ## Post 1
+
 > Direct post by Bernard Huang
 
-**URL:** https://www.linkedin.com/posts/bernardjhuang_the-biggest-shift-in-seo-isnt-technical-activity-7396614567365263360-oUw4
+**URL:** [https://www.linkedin.com/posts/bernardjhuang_the-biggest-shift-in-seo-isnt-technical-activity-7396614567365263360-oUw4](https://www.linkedin.com/posts/bernardjhuang_the-biggest-shift-in-seo-isnt-technical-activity-7396614567365263360-oUw4)
 
 The biggest shift in SEO isn't technical. It's cognitive.
 
@@ -26,9 +27,10 @@ We're entering a new era defined not by the "long tail," but by what I call the 
 ---
 
 ## Post 2
+
 > Referenced content — Michiel Dorjee summarising a conversation with Bernard Huang on GEO
 
-**URL:** https://www.linkedin.com/posts/michieldorjee_agentsinaction-aisearch-contentstrategy-activity-7434598226621521922-4OwO
+**URL:** [https://www.linkedin.com/posts/michieldorjee_agentsinaction-aisearch-contentstrategy-activity-7434598226621521922-4OwO](https://www.linkedin.com/posts/michieldorjee_agentsinaction-aisearch-contentstrategy-activity-7434598226621521922-4OwO)
 
 Bernard Huang on what's actually working for getting content found in LLMs:
 
@@ -41,9 +43,10 @@ The goal is to get found, get cited and mentioned — not to battle against Chat
 ---
 
 ## Post 3
+
 > Direct post by Bernard Huang
 
-**URL:** https://www.linkedin.com/posts/bernardjhuang_were-entering-an-era-where-the-biggest-gains-activity-7401337410204454912-S2h7
+**URL:** [https://www.linkedin.com/posts/bernardjhuang_were-entering-an-era-where-the-biggest-gains-activity-7401337410204454912-S2h7](https://www.linkedin.com/posts/bernardjhuang_were-entering-an-era-where-the-biggest-gains-activity-7401337410204454912-S2h7)
 
 We're entering an era where the biggest gains in SEO won't come from writing more content. They'll come from teaching AI systems who you are.
 
@@ -52,6 +55,7 @@ Search is no longer a single algorithm ranking links. It's a mesh of intelligent
 "AI optimization" isn't about prompting your way to faster content creation. It's about building intelligence around your brand — the kind machines can understand, reference, and trust.
 
 Key ideas:
+
 - Why LLMs evaluate ideas, not keywords
 - How "representation in AI models" becomes the new moat
 - The shift from optimizing pages to shaping knowledge ecosystems
@@ -62,9 +66,10 @@ If SEO was once about matching queries, AI optimization is about shaping underst
 ---
 
 ## Post 4
+
 > Direct post by Bernard Huang
 
-**URL:** https://www.linkedin.com/posts/bernardjhuang_everyone-keeps-saying-ai-is-the-new-search-activity-7435061789035253761-lv81
+**URL:** [https://www.linkedin.com/posts/bernardjhuang_everyone-keeps-saying-ai-is-the-new-search-activity-7435061789035253761-lv81](https://www.linkedin.com/posts/bernardjhuang_everyone-keeps-saying-ai-is-the-new-search-activity-7435061789035253761-lv81)
 
 Everyone keeps saying "AI is the new search." But here's the part people skip: if AI is search, then every model is a different search engine and they all behave very differently.
 
@@ -79,9 +84,10 @@ When people say "optimize for AI," they're usually treating five completely diff
 ---
 
 ## Post 5
+
 > Direct post by Bernard Huang
 
-**URL:** https://www.linkedin.com/posts/bernardjhuang_weve-identified-a-winning-aeogeo-workflow-activity-7406371191277547520-U-vv
+**URL:** [https://www.linkedin.com/posts/bernardjhuang_weve-identified-a-winning-aeogeo-workflow-activity-7406371191277547520-U-vv](https://www.linkedin.com/posts/bernardjhuang_weve-identified-a-winning-aeogeo-workflow-activity-7406371191277547520-U-vv)
 
 We've identified a winning AEO/GEO workflow that improves your AI visibility.
 
@@ -90,3 +96,4 @@ Main on-page difference between AEO/GEO vs traditional SEO: you need to target A
 Main off-page difference: generating more PR and brand mentions instead of chasing "backlinks."
 
 ---
+

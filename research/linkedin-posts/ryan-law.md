@@ -2,7 +2,7 @@
 
 Source: Google search fallback
 Profile: https://www.linkedin.com/in/thinkingslow/ (username: thinkingslow)
-Collected: 2026-04-24
+
 
 ---
 
@@ -24,11 +24,31 @@ The path forward will only be found if we are honest about where AI can, and sho
 ## Post 2
 > Direct post by Ryan Law
 
-**URL:** https://www.linkedin.com/posts/thinkingslow_broke-using-ai-to-scale-seo-content-creation-activity-7434663762307149825-QddI
+**URL:** https://www.linkedin.com/posts/thinkingslow_i-built-a-new-tool-the-automatic-content-activity-7442515639111577600-HBT7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0uiLMBNEKbe1-379k11y_NNAAlM2e7FKI
 
-Broke: using AI to scale SEO content creation.
+i built a new tool: the automatic content updater! 
 
-Woke: using AI to automate content maintenance so you can focus on scaling research, experiments, and editorial content.
+find and fix outdated claims and statistics, naturally mention your latest products, and find and fill topic gaps.
+
+updating blog content is one of the highest-ROI activities in content marketing. but nobody likes doing it, especially on a blog with 1,000+ articles, like ours :')
+
+so i built a tool that turns content maintenance into a guided, step-by-step workflow:
+
+→ paste any blog URL and extract the full article content
+→ automatically find outdated statistics and suggest replacements with sources
+→ check your product changelog and recommend natural feature mentions
+→ scrape top-ranking competitors and identify topic gaps you're missing
+→ generate new sections in your writing style for gaps you accept
+→ accept, reject, or edit every single suggestion before anything changes
+→ compile the final updated article and export in whatever format you like
+
+crucially, this is designed as a counterpart to your human judgement and creative inclinations. guide the updating process with as much (or as little) context as you like, and review and improve any suggested updates directly in the editor.
+
+(unsurprisingly, this pairs extremely well with the content freshness tool i shared on Monday!)
+
+want to try this for yourself? join the waitlist here:
+
+ahrefs.com/agent-a
 
 ---
 

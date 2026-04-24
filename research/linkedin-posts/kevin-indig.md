@@ -1,7 +1,6 @@
 # LinkedIn Posts — Kevin Indig (Growth Advisor, ex-Shopify/G2/Atlassian)
 
 Profile: https://www.linkedin.com/in/kevinindig/
-Collected: 2026-04-24
 Filter: AI + SEO related posts
 
 ---

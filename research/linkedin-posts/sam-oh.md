@@ -1,10 +1,8 @@
 # LinkedIn Posts — Sam Oh (VP Marketing, Ahrefs)
 
-Source: Google search fallback  
+Source: Linkedin search fallback  
 Profile: [https://www.linkedin.com/in/sam-o-84593014/](https://www.linkedin.com/in/sam-o-84593014/)  
-Collected: 2026-04-24
 
-The two posts below are confirmed references to Sam Oh at Ahrefs.
 
 ---
 
