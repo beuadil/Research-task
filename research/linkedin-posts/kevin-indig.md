@@ -1,22 +1,12 @@
-# LinkedIn Posts — Kevin Indig (Growth Advisor, ex-Shopify/G2)
+# LinkedIn Posts — Kevin Indig (Growth Advisor, ex-Shopify/G2/Atlassian)
 
-Source: Google search fallback
 Profile: https://www.linkedin.com/in/kevinindig/
 Collected: 2026-04-24
+Filter: AI + SEO related posts
 
 ---
 
 ## Post 1
-> Referenced content — Andrea Atzori recommending Kevin Indig's "Great Decoupling" article
-
-**URL:** https://www.linkedin.com/posts/andreaatzori_seo-activity-7420299033228939264--8oW
-
-Kevin Indig's latest on "The Great Decoupling" is a must-read. As AI changes how users interact with search, strategy has to move beyond the click. A very timely read for anyone navigating the current search landscape.
-
----
-
-## Post 2
-> Direct post by Kevin Indig
 
 **URL:** https://www.linkedin.com/posts/kevinindig_dont-assume-that-seo-wins-ai-wins-while-activity-7407348821107752960-jX27
 
@@ -32,25 +22,7 @@ To fix this, we need to track visibility across both worlds. The new AI vs SEO C
 
 ---
 
-## Post 3
-> Referenced content — Tim Soulo (Ahrefs) introducing Kevin Indig's podcast episode on AI and SEO
-
-**URL:** https://www.linkedin.com/posts/timsoulo_kevin-indig-is-one-of-the-sharpest-minds-activity-7366420475574407169-14mU
-
-Kevin Indig is one of the sharpest minds in SEO. Having led growth at Shopify, G2, and Atlassian, he now advises some of the world's fastest-growing startups.
-
-Ahrefs Podcast episode topics:
-- Was 2024 the peak year for search traffic?
-- "Impressions up, clicks down" — the AI Overviews paradox
-- Does AI traffic actually convert better than organic?
-- How to get your brand cited in AI answers (proven tips)
-- How SEOs can leverage AI for content creation
-- Why winners on Google aren't necessarily winners on ChatGPT
-
----
-
-## Post 4
-> Direct post by Kevin Indig
+## Post 2
 
 **URL:** https://www.linkedin.com/posts/kevinindig_in-seo-we-obsess-over-where-we-rank-but-activity-7423732576139476992-sx3r
 
@@ -68,8 +40,7 @@ Strategic Takeaway: If you want to win in AI Search, you can't just target keywo
 
 ---
 
-## Post 5
-> Direct post by Kevin Indig
+## Post 3
 
 **URL:** https://www.linkedin.com/posts/kevinindig_want-an-8x-success-multiplier-on-your-ai-activity-7432767721030754306-iorn
 
@@ -84,5 +55,23 @@ The most successful growth leaders right now act as change agents using three pr
 2. Progress over perfection — don't try to overhaul the entire marketing machine at once. Build momentum in phases: Pilot → Expand → Embed.
 
 3. Translation over broadcasting — stop reporting on outdated tactical metrics and start translating visibility into the language executives actually care about: Influence → Brand Recall → Pipeline.
+
+---
+
+## Post 4
+
+**URL:** https://www.linkedin.com/posts/timsoulo_kevin-indig-is-one-of-the-sharpest-minds-activity-7366420475574407169-14mU
+
+> Referenced content — Tim Soulo (Ahrefs) introducing Kevin Indig's podcast episode on AI and SEO
+
+Kevin Indig is one of the sharpest minds in SEO. Having led growth at Shopify, G2, and Atlassian, he now advises some of the world's fastest-growing startups.
+
+Ahrefs Podcast episode topics:
+- Was 2024 the peak year for search traffic?
+- "Impressions up, clicks down" — the AI Overviews paradox
+- Does AI traffic actually convert better than organic?
+- How to get your brand cited in AI answers (proven tips)
+- How SEOs can leverage AI for content creation
+- Why winners on Google aren't necessarily winners on ChatGPT
 
 ---

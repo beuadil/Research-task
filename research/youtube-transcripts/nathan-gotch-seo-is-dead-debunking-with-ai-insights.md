@@ -1,0 +1,10 @@
+# Transcript: seo-is-dead-debunking-with-ai-insights
+
+Expert: nathan-gotch
+Video ID: QLpSxF4armY
+URL: https://www.youtube.com/watch?v=QLpSxF4armY
+Collected: 2026-04-24
+
+---
+
+Um, you know, there's so much we could get into here, Nathan, but really two questions that I really want to hammer on in this in this episode here. Is SEO dead? Right? That is the the number one question that you probably get every single day at this point from interactions or just online everywhere. What stays? What's gone? Like what is your response to this whole thing? >> Well, SEO, I mean, it's funny the there's kind of this I feel like there's a journey that most people go through in this uh this kind of like disruption. Okay. So initially you get this feeling of like whoa there's like this is dead like like I need to find a new job like this is way too difficult but then you go through like okay let me mess around with AI a little bit and then you realize you're like man this is a lot of opportunity here and you realize that um and you kind of go through this process but then when you go deeper into and as you know this as well who's someone who's very deep in AI um when you go real deep I'm not talking surface level stuff I'm talking like you're actually building websites with AI. You're actually coding. You're building automation. >> Vive coding. Yeah. Exactly. The further you go deeper into that, the more you realize that we're not even close to AGI. When you use a vibe coder for the first time and you create your site real quickly or, you know, application like, oh my gosh, I just unlocked the greatest power of all time. But then you go a little bit deeper and then you got bugs and things break and then replet deletes your whole website. That's when things you realize you're like, "Okay, we're not there." Like, we are not there. And so, the only way to really know that though is to get your hands really dirty with this stuff. And and as much as I love it, as much as I I've, you know, streamlined so many things, there's just a lot that has to happen. These humans are necessary

@@ -1,10 +1,8 @@
-# LinkedIn Posts — Aleyda Solis (Independent SEO Consultant, host of Crawling Mondays)
+# LinkedIn Posts — Aleyda Solis
 
-Source: Google search fallback
 Profile: https://www.linkedin.com/in/aleydasolis/
 Collected: 2026-04-24
-
-All 5 posts are direct posts by Aleyda Solis.
+Filter: AI + SEO related posts, past 12 months
 
 ---
 
@@ -61,36 +59,46 @@ Thanks so much to Darth Autocrat and Chris Green for their feedback/validation!
 
 ## Post 4
 
-**URL:** https://www.linkedin.com/posts/aleyda_biggest-mistake-i-see-companies-doing-with-activity-7361490097659097088-C6hP
+**URL:** https://www.linkedin.com/posts/aleyda_top-seo-ai-search-updates-from-seofomo-activity-7421667744351260673-UIb3
 
-Biggest mistake I see companies doing with  AI search? I was asked about it in a session today. 
+📈 Top SEO & AI Search Updates from  SEOFOMO [January 25, 2026] 👇
 
-My answer? Allocating budgets in tools (many times overlapping) without leaving any resource -or minimal one- for implementation. 
+* AI Mode is getting much more personalized: Google brings Personal Intelligence (To Test) to AI Mode in Search
 
-By all means: it’s fundamental to invest in tools and functionality that allows you to research, assess, optimize and measure AI search … but is equally important to leave resources to actually *take action* based on the identified insights! 
+“Personal Intelligence can also be particularly helpful for shopping, because AI Mode considers the types of items you buy and where you shop.”
 
-Otherwise the AI search insights obtained by the tools will be … useless. Invest to expand the resources allocated to your SEO team for execution, and provide the needed flexibility accordingly! 
+* Perplexity AI Interview Explains How AI Search Works
 
-🤷🏻♀️ 
+Roger Montti spoke with Jesse Dwyer of Perplexity about SEO and AI search, about what SEOs should be focusing on in terms of optimizing for AI search: "As for the index technology, the biggest difference in AI search right now comes down to whole-document vs. “sub-document” processing."
 
-PS: Wondering about which tools to take into account and actions to prioritize? Check out learningaisearch(.)com
+* The numbers suggest early-stage adoption: 56% Of CEOs Report No Revenue Gains From AI: PwC Survey
+
+More than half of CEOs say they haven't seen revenue gains or cost reductions from AI over the past 12 months. Only 22% of CEOs report using AI to a large or very large extent for demand generation.
+
+* How Google knows you’re human: Inside SearchGuard: How Google detects bots and what the SerpAPI lawsuit reveals
+
+Olivier de Segonzac fully decrypted SearchGuard, the anti-bot system protecting Google Search. He goes through what he found and what this means for SEO.
+
+Much more! Including the latest SEO jobs, events, tools. 
+
+Check it out, link in comments 👀
 
 ---
 
 ## Post 5
 
-**URL:** https://www.linkedin.com/posts/aleyda_2026-seo-roadmap-14-specialists-on-technical-activity-7413152224417091584-S_LY
+**URL:** https://www.linkedin.com/posts/aleyda_ai-search-where-are-we-so-far-and-how-activity-7425156088175689728-lIa-
 
-2026 SEO Roadmap: 14 Specialists on Technical, Content, and Brand for the AI Era - An excellent round-up by Gerry White, providing the strategic clarity needed to thrive in the 2026 search landscape, going through: 
+🚀 AI Search: Where are we so far and how to win in the current landscape - My presentation at Women in Tech SEO updated with the latest data and shifts: 
 
-* SEO Evolution: Traditional rankings fade as AI generates answers; focus on being cited across platforms (AI overviews, social, LLMs) for influence and conversions.
-* Brand & Authority: Brands win through consistent mentions, expertise, and trust signals,replacing links as the top currency.
-* Technical & Content Shifts: Prioritize structured data, entity optimization, human expertise, and full-stack skills; use AI for efficiency, not shortcuts.
-* Challenges & Opportunities: Expect traffic declines, tool consolidation, and agentic search; adapt via experimentation, collaboration, and business-aligned metrics.
-* Consensus: SEO isn't dying - it's expanding. Winners build durable foundations amid fragmentation.
+Here are the immediate SEO implications from these key AI search shifts: 
 
-Featuring Silvia Martin, Anthony Barone, Iva Jovanovic, Bengu Sarica Dincer, Jonathan Moore, Vanda Pókecz, Emina Demiri, Will Kennard, Natalia Witczyk, Tom Bourlet, Yagmur Simsek, Yordan Dimitrov, Gerry White and yours truly! 
+1. AI search functions as both a performance and a branding channel. As user journeys increasingly complete inside AI answers, traffic alone is no longer a reliable indicator of success, making expanded KPIs and goals necessary.
 
-Check it out: https://lnkd.in/enEDzJHy 🙌
+2. You’re optimizing for comprehensive, well-structured content that AI can flexibly extract from any accessible page, rather than rigid query-to-page matching.
+
+3. Building positive third-party citations is becoming as strategically important as earning relevant backlinks. Aligning SEO with digital PR and community management is now fundamental to shaping a consistent and credible brand presence
+
+Check it out. Link in comments 👇👀
 
 ---

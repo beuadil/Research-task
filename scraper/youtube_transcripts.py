@@ -4,61 +4,66 @@ YouTube transcript collector — no API key needed.
 Usage:
   python3 scraper/youtube_transcripts.py
 
-Add video IDs to the VIDEOS list below (the part after ?v= in the URL).
-Example: https://www.youtube.com/watch?v=dQw4w9WgXcQ  →  ID is dQw4w9WgXcQ
+Experts: Matt Diggity, Julian Goldie, Nathan Gotch — all focused on AI-powered SEO.
 """
 
+import time
 from pathlib import Path
 from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
 
 OUTPUT_DIR = Path("research/youtube-transcripts")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Format: ("expert-slug", "video-id", "video title for filename")
-# Find video IDs by opening a YouTube video and copying the ?v=... part of the URL
+# Format: ("expert-slug", "video-id", "video title")
+# These are AI-SEO focused videos from each creator
 VIDEOS = [
-    # Aleyda Solis — Crawling Mondays AI episodes (replace IDs with real ones)
-    ("aleyda-solis", "REPLACE_VIDEO_ID", "crawling-mondays-ai-seo"),
+    # Matt Diggity — data-driven AI SEO experiments
+    ("matt-diggity", "xG9Vu9yrQzw", "i-let-ai-run-my-seo-campaign"),
+    ("matt-diggity", "4GBlHObjOrY", "ai-seo-for-chatgpt-and-google-ai"),
 
-    # Sam Oh / Ahrefs — AI SEO videos
-    ("sam-oh", "REPLACE_VIDEO_ID", "ahrefs-ai-seo-strategy"),
+    # Julian Goldie — AI SEO workflow automation
+    ("julian-goldie", "WhLyFjzbzvQ", "rank-1-with-perplexity-parasite-ai-seo-2026"),
+    ("julian-goldie", "fjwu45wqgx0", "rank-1-with-perplexity-parasite-ai-seo"),
 
-    # Koray Tugberk — technical AI SEO
-    ("koray-tugberk", "REPLACE_VIDEO_ID", "koray-ai-seo-entities"),
-
-    # Add more here as you find the video IDs
+    # Nathan Gotch (GotchSEO) — systematic AI SEO strategy
+    ("nathan-gotch", "QLpSxF4armY", "seo-is-dead-debunking-with-ai-insights"),
+    ("nathan-gotch", "mbCfRlY7elM", "6-ai-seo-skills-that-matter-most-2026"),
 ]
 
 
 def get_transcript(video_id: str) -> str:
-    transcript = YouTubeTranscriptApi.get_transcript(video_id)
-    return " ".join(chunk["text"] for chunk in transcript)
+    api = YouTubeTranscriptApi()
+    transcript = api.fetch(video_id)
+    return " ".join(chunk.text for chunk in transcript)
 
 
 def main():
+    success = 0
     for expert, video_id, title in VIDEOS:
-        if video_id == "REPLACE_VIDEO_ID":
-            print(f"⚠  Skipping {expert} / {title} — no video ID set yet")
-            continue
-
-        print(f"→ Fetching transcript: {expert} / {title} ...")
+        print(f"→ {expert} / {title} (ID: {video_id}) ...")
         try:
             text = get_transcript(video_id)
             out_path = OUTPUT_DIR / f"{expert}-{title}.md"
             out_path.write_text(
-                f"# Transcript: {title}\n\nExpert: {expert}\nVideo ID: {video_id}\nURL: https://www.youtube.com/watch?v={video_id}\n\n---\n\n{text}\n",
+                f"# Transcript: {title}\n\n"
+                f"Expert: {expert}\n"
+                f"Video ID: {video_id}\n"
+                f"URL: https://www.youtube.com/watch?v={video_id}\n"
+                f"Collected: {time.strftime('%Y-%m-%d')}\n\n"
+                f"---\n\n{text}\n",
                 encoding="utf-8",
             )
             words = len(text.split())
-            print(f"  ✓ Saved {words} words → {out_path}")
+            print(f"  ✓ Saved {words:,} words → {out_path}")
+            success += 1
         except TranscriptsDisabled:
-            print(f"  ✗ Transcripts disabled for {video_id}")
+            print(f"  ✗ Transcripts disabled for this video — try a different one")
         except NoTranscriptFound:
-            print(f"  ✗ No transcript found for {video_id} (try a different video)")
+            print(f"  ✗ No transcript available — try a different video")
         except Exception as e:
             print(f"  ✗ Error: {e}")
 
-    print("\nDone. Files saved to research/youtube-transcripts/")
+    print(f"\nDone. {success}/{len(VIDEOS)} transcripts saved to research/youtube-transcripts/")
 
 
 if __name__ == "__main__":
