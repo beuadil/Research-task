@@ -1,6 +1,6 @@
 # AI-Powered SEO Content Production — Playbook / SOP
 
-> **Author:** Adil Beu | **Date:** April 2026
+> **Author:** Adil Gasimov | **Date:** April 2026
 > **Topic:** AI-Powered SEO Content Production
 > **Based on:** 10 practitioners — 7 LinkedIn, 3 YouTube
 
