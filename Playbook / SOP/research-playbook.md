@@ -8,16 +8,29 @@
 
 ## Table of Contents
 
-1. [Recommendations](#recommendations)
-2. [Where Experts Disagree](#where-experts-disagree)
-3. [What I Rejected and Why](#what-i-rejected-and-why)
-4. [My Original Ideas](#my-original-ideas)
-5. [Weaknesses of This Playbook](#weaknesses-of-this-playbook)
-6. [Who I Would NOT Recommend Following and Why](#who-i-would-not-recommend-following-and-why)
+1. [Goal](#goal)
+2. [Core Operating Principles](#core-operating-principles)
+3. [Where Experts Disagree](#where-experts-disagree)
+4. [What I Rejected and Why](#what-i-rejected-and-why)
+5. [My Original Ideas](#my-original-ideas)
+6. [Weaknesses of This Playbook](#weaknesses-of-this-playbook)
+7. [Who I Would NOT Recommend Following and Why](#who-i-would-not-recommend-following-and-why)
 
 ---
 
-## Recommendations
+## Goal
+
+This playbook is designed for B2B SaaS companies using AI for SEO content production.
+
+The goal is not to publish more content faster. The goal is to create content that ranks in both traditional search engines and AI-powered systems like ChatGPT, Perplexity, Gemini, and Google AI Overviews-while still being useful enough for real buyers to trust.
+
+Most AI content advice focuses on speed and volume. I think that is the wrong focus. Cheap content is now easy for everyone. The real advantage comes from judgment: knowing what should be published, what should be rejected, and what makes content worth citing.
+
+This playbook is based on 10 practitioners who actively run SEO campaigns, not people who only write theory. I focused more on operator judgment than on tactical checklists.
+
+---
+
+## Core Operating Principles
 
 I spent time going through posts, videos, and case studies from 10 practitioners who actually run SEO campaigns with AI — not people who just write about it. These are the things that came up repeatedly and actually make sense when you look at how search works now across both Google and AI tools like Perplexity and ChatGPT.
 
