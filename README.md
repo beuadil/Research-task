@@ -62,8 +62,6 @@ research/
 │   ├── koray-tugberk.md
 │   ├── ryan-law.md
 │   └── sam-oh.md
-├── playbooks/
-│   └── research-playbook.md              # Final SOP / recommendations synthesis
 └── youtube-transcripts/
     ├── matt-diggity-i-let-ai-run-my-seo-campaign.md
     ├── matt-diggity-ai-seo-for-chatgpt-and-google-ai.md
@@ -75,4 +73,7 @@ research/
 scraper/
 ├── linkedin_public.py                    # LinkedIn post collector (no login)
 └── youtube_transcripts.py               # YouTube transcript collector
+
+Playbook / SOP/
+└── research-playbook.md                  # Final SOP / recommendations synthesis
 ```
